@@ -84,3 +84,8 @@ Using the Dialogflow middleware with Botkit causes every message sent to your bo
 
 Forked from [botkit-middleware-apiai](https://github.com/abeai/botkit-middleware-apiai). Thanks to
 [@abeai](https://github.com/abeai) for the original work.
+
+## Edits by
+Byerley
+
+fooo

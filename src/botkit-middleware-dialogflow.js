@@ -15,7 +15,7 @@ module.exports = function (config) {
         config.skip_bot = false;
     }
 
-    var app = apiai(config.token);
+    var app = apiai(config.token, config);
 
     var middleware = {};
     var sessionId = uuid.v1();
